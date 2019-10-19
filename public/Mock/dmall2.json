@@ -1,0 +1,1433 @@
+{
+	"data": {
+		"currentPage": 2,
+		"hasMore": true,
+		"pageModules": [{
+			"dataList": [{
+				"brandId": 0,
+				"dataType": 5,
+				"imageUrl": "https://img.dmallcdn.com/mIndex/201905/a298f1a2-64bb-4280-aded-56170ae4d9e5_360x360H",
+				"resource": "https://a.dmall.com/act/i8HtDkXKzcpgJT.html?erpStoreId=206&dmfrom=wx&from=wx&shareKey=1571400717641",
+				"sort": 1,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"dataType": 5,
+				"imageUrl": "https://img.dmallcdn.com/mIndex/201905/16026d16-6314-4665-92b4-698726ff9c90_360x360H",
+				"resource": "https://a.dmall.com/act/eg83yJzumh.html?erpStoreId=206&dmfrom=wx&from=wx&shareKey=1571400717641",
+				"sort": 2,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"dataType": 5,
+				"imageUrl": "https://img.dmallcdn.com/mIndex/201905/9a135d13-aadf-400b-99d9-bc8be5df5bc7_360x360H",
+				"resource": "https://a.dmall.com/act/JypSDxYUBW6.html?erpStoreId=206&dmfrom=wx&from=wx&shareKey=1571400717641",
+				"sort": 3,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 140,
+			"groupFeature": {
+				"titleNew": "每日必购",
+				"margin": 0,
+				"showHoleBar": false,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "每日必购",
+				"ratio": 1
+			},
+			"moduleType": 140,
+			"name": "每日必购",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 34
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"dataType": 5,
+				"imageUrl": "https://img.dmallcdn.com/mIndex/201905/700dcc46-14a9-4240-9dbf-aec63ee446ea_750H",
+				"resource": "",
+				"sort": 1,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 146,
+			"groupFeature": {
+				"heightWideRatio": 0.12,
+				"titleNew": "生活常伴分类条-O2O",
+				"margin": 10,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "生活常伴分类条-O2O",
+				"ratio": 1
+			},
+			"moduleType": 146,
+			"name": "生活常伴分类条-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 36
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"dataType": 5,
+				"imageUrl": "https://img.dmallcdn.com/mIndex/201905/ded014e9-b0e7-4d78-91c0-cc6136a3826e_750H",
+				"resource": "",
+				"sort": 1,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 146,
+			"groupFeature": {
+				"heightWideRatio": 0.24,
+				"titleNew": "楼层图-极致生鲜分栏-O2O",
+				"margin": 10,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层图-极致生鲜分栏-O2O",
+				"ratio": 1
+			},
+			"moduleType": 146,
+			"name": "楼层图-极致生鲜分栏-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 39
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20161205/2ca6ff8e-3da1-4bc7-83ba-1e84bac2fb9d_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "砀山梨 约1.9kg",
+						"skuId": 100037
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 799,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1308,
+					"showTitle": false,
+					"name": "砀山梨 约1.9kg",
+					"sku": 100037,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20161205/2ca6ff8e-3da1-4bc7-83ba-1e84bac2fb9d_360x360H",
+				"resource": "100037",
+				"sort": 1,
+				"spId": 100037,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20181025/ba288e52-3107-41fa-aa6d-f630112b2eeb_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "越南红心火龙果【精】 约400g",
+						"skuId": 100336829
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 690,
+					"sell": true,
+					"videoInfo": [{
+						"videoUrl": "ware/F44887793569ED9779733C25A51FE8AE.mp4"
+					}],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 790,
+					"showTitle": false,
+					"name": "越南红心火龙果【精】 约400g",
+					"sku": 100336829,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/695/2_360x360H", "https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20181025/ba288e52-3107-41fa-aa6d-f630112b2eeb_360x360H",
+				"resource": "100336829",
+				"sort": 2,
+				"spId": 100336829,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190914/139a9187-a14e-478b-8724-f19622144241_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "琯溪蜜柚 约1.6kg",
+						"skuId": 100255844
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 529,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 690,
+					"showTitle": false,
+					"name": "琯溪蜜柚 约1.6kg",
+					"sku": 100255844,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190914/139a9187-a14e-478b-8724-f19622144241_360x360H",
+				"resource": "100255844",
+				"sort": 3,
+				"spId": 100255844,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-水果-O2O",
+				"margin": 2,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-水果-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-水果-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 40
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20180627/a89a25f8-22ee-4053-a662-f00f49e16573_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "油麦菜【袋】 约330g",
+						"skuId": 100822809
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 190,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"showTitle": false,
+					"name": "油麦菜【袋】 约330g",
+					"sku": 100822809,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/695/2_360x360H", "https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20180627/a89a25f8-22ee-4053-a662-f00f49e16573_360x360H",
+				"resource": "100822809",
+				"sort": 1,
+				"spId": 100822809,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190304/e6f29179-2b5c-4751-8015-9b00b9c3718c_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "杏鲍菇【精】 约450g",
+						"skuId": 100497195
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 490,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 590,
+					"showTitle": false,
+					"name": "杏鲍菇【精】 约450g",
+					"sku": 100497195,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/695/2_360x360H", "https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190304/e6f29179-2b5c-4751-8015-9b00b9c3718c_360x360H",
+				"resource": "100497195",
+				"sort": 2,
+				"spId": 100497195,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20180911/ff22f682-f30f-4935-aec0-57b52d853e79_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "西红柿 约1.1kg 实惠装",
+						"skuId": 100361895
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 758,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"showTitle": false,
+					"name": "西红柿 约1.1kg 实惠装",
+					"sku": 100361895,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/695/2_360x360H", "https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20180911/ff22f682-f30f-4935-aec0-57b52d853e79_360x360H",
+				"resource": "100361895",
+				"sort": 4,
+				"spId": 100361895,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-蔬菜-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-蔬菜-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-蔬菜-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 41
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190920/3be992c2-f560-4b35-85ea-52483736eb24_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "缤纷田园鲜鸡蛋30枚 1.29kg 新老包装随机",
+						"skuId": 106485
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 2590,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"showTitle": false,
+					"name": "缤纷田园鲜鸡蛋30枚 1.29kg 新老包装随机",
+					"sku": 106485,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/695/2_360x360H", "https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190920/3be992c2-f560-4b35-85ea-52483736eb24_360x360H",
+				"resource": "106485",
+				"sort": 1,
+				"spId": 106485,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20181120/7e525f98-158a-483a-a53c-37ab0664416c_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "桃谷香鲜鸡蛋30枚 1.29kg",
+						"skuId": 179418
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 2390,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 2590,
+					"showTitle": false,
+					"name": "桃谷香鲜鸡蛋30枚 1.29kg",
+					"sku": 179418,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20181120/7e525f98-158a-483a-a53c-37ab0664416c_360x360H",
+				"resource": "179418",
+				"sort": 2,
+				"spId": 179418,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20170817/4f02c398-270d-47ed-adee-afb4c78528f6_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "正大鲜鸡蛋15枚 645g",
+						"skuId": 100311238
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 990,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "限量秒杀",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1590,
+					"showTitle": false,
+					"name": "正大鲜鸡蛋15枚 645g",
+					"sku": 100311238,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "限量秒杀",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20170817/4f02c398-270d-47ed-adee-afb4c78528f6_360x360H",
+				"resource": "100311238",
+				"sort": 3,
+				"spId": 100311238,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-蛋品-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-蛋品-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-蛋品-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 42
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20181027/c3b61ea4-c4c6-4907-8f22-3e0138f3e570_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "月盛斋肥牛片 450g",
+						"skuId": 100849531
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 3199,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 4198,
+					"showTitle": false,
+					"name": "月盛斋肥牛片 450g",
+					"sku": 100849531,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20181027/c3b61ea4-c4c6-4907-8f22-3e0138f3e570_360x360H",
+				"resource": "100849531",
+				"sort": 1,
+				"spId": 100849531,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20180507/94e2df42-6e84-419a-a870-b817f26ee8e3_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "月盛斋羔羊肉片 450g",
+						"skuId": 100849532
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 4298,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "满2件享7折",
+					"skuType": 1,
+					"wareStatus": 0,
+					"showTitle": false,
+					"name": "月盛斋羔羊肉片 450g",
+					"sku": 100849532,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "满2件享7折",
+						"subType": 303,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20180507/94e2df42-6e84-419a-a870-b817f26ee8e3_360x360H",
+				"resource": "100849532",
+				"sort": 2,
+				"spId": 100849532,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190423/af0ae8da-989a-4a02-ab78-0b01a8521ea7_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "鸡大胸 约300g",
+						"skuId": 100849546
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 390,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "限量秒杀",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 732,
+					"showTitle": false,
+					"name": "鸡大胸 约300g",
+					"sku": 100849546,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "限量秒杀",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190423/af0ae8da-989a-4a02-ab78-0b01a8521ea7_360x360H",
+				"resource": "100849546",
+				"sort": 3,
+				"spId": 100849546,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-肉品-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-肉品-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-肉品-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 43
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190709/daf53dff-c0cd-4ff6-8b87-a0443da5e8c6_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "龙虾尾 约500g",
+						"skuId": 102990
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 3088,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 5109,
+					"showTitle": false,
+					"name": "龙虾尾 约500g",
+					"sku": 102990,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190709/daf53dff-c0cd-4ff6-8b87-a0443da5e8c6_360x360H",
+				"resource": "102990",
+				"sort": 1,
+				"spId": 102990,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190827/29a8fafd-0da3-4f39-8a32-cedaa13842a7_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "缤纷鱼鲜大冻带鱼段 约500g",
+						"skuId": 100860858
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 998,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1280,
+					"showTitle": false,
+					"name": "缤纷鱼鲜大冻带鱼段 约500g",
+					"sku": 100860858,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190827/29a8fafd-0da3-4f39-8a32-cedaa13842a7_360x360H",
+				"resource": "100860858",
+				"sort": 2,
+				"spId": 100860858,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190529/9cdf496b-39f4-4559-9819-bea422d75d95_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "安井火锅丸组合530g（鱼豆腐,爆汁小鱼丸,仿墨鱼丸,撒尿肉丸)  口味随机发货",
+						"skuId": 101923
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 1190,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "限量秒杀",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 2215,
+					"showTitle": false,
+					"name": "安井火锅丸组合530g（鱼豆腐,爆汁小鱼丸,仿墨鱼丸,撒尿肉丸)  口味随机发货",
+					"sku": 101923,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "限量秒杀",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190529/9cdf496b-39f4-4559-9819-bea422d75d95_360x360H",
+				"resource": "101923",
+				"sort": 3,
+				"spId": 101923,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-水产-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-水产-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-水产-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 44
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"dataType": 5,
+				"imageUrl": "https://img.dmallcdn.com/mIndex/201905/33c379c6-d9e0-476c-a53f-2eab22ce58bb_750H",
+				"resource": "",
+				"sort": 1,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 146,
+			"groupFeature": {
+				"heightWideRatio": 0.24,
+				"titleNew": "楼层图-生活常备分栏-O2O",
+				"margin": 10,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层图-生活常备分栏-O2O",
+				"ratio": 1
+			},
+			"moduleType": 146,
+			"name": "楼层图-生活常备分栏-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 45
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190328/3fbb8c30-6374-46e7-8c5e-3301ed01f3c0_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "认养一头牛法国益生菌发酵酸奶 200g*12",
+						"skuId": 100743744
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 4990,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 6800,
+					"showTitle": false,
+					"name": "认养一头牛法国益生菌发酵酸奶 200g*12",
+					"sku": 100743744,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190328/3fbb8c30-6374-46e7-8c5e-3301ed01f3c0_360x360H",
+				"resource": "100743744",
+				"sort": 3,
+				"spId": 100743744,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190505/d387dabc-dbb7-46f0-ac9d-a32b14916e4c_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "蒙牛特仑苏奶 250ml*12",
+						"skuId": 121267
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 5500,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 6500,
+					"showTitle": false,
+					"name": "蒙牛特仑苏奶 250ml*12",
+					"sku": 121267,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190505/d387dabc-dbb7-46f0-ac9d-a32b14916e4c_360x360H",
+				"resource": "121267",
+				"sort": 4,
+				"spId": 121267,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190715/0653466e-5d9a-46fb-a0f8-88387e5073fd_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "伊利金典低脂牛奶 250ml*12",
+						"skuId": 121294
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 4650,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "限量秒杀",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 6780,
+					"showTitle": false,
+					"name": "伊利金典低脂牛奶 250ml*12",
+					"sku": 121294,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "限量秒杀",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190715/0653466e-5d9a-46fb-a0f8-88387e5073fd_360x360H",
+				"resource": "121294",
+				"sort": 5,
+				"spId": 121294,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-常温乳品-O2O",
+				"margin": 2,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-常温乳品-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-常温乳品-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 46
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190430/2286acb2-9bb2-4f9d-8bc3-442cafcbe88d_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "三元天然酸牛奶 1.8kg",
+						"skuId": 121434
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 1290,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "限量秒杀",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 2450,
+					"showTitle": false,
+					"name": "三元天然酸牛奶 1.8kg",
+					"sku": 121434,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "限量秒杀",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190430/2286acb2-9bb2-4f9d-8bc3-442cafcbe88d_360x360H",
+				"resource": "121434",
+				"sort": 1,
+				"spId": 121434,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190430/2593ec58-b573-46bb-8274-26677fa4fb39_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "伊利尚补坊发酵乳桶装 红枣风味 450g",
+						"skuId": 121483
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 650,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "优惠券",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 700,
+					"showTitle": false,
+					"name": "伊利尚补坊发酵乳桶装 红枣风味 450g",
+					"sku": 121483,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "优惠券",
+						"type": 2
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190430/2593ec58-b573-46bb-8274-26677fa4fb39_360x360H",
+				"resource": "121483",
+				"sort": 2,
+				"spId": 121483,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20180906/488fc427-b067-43e8-b9ca-cab5b0a21858_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "君乐宝纯享瓶风味发酵乳 苹果味 330g",
+						"skuId": 100001868
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 880,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "满件立减",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 890,
+					"showTitle": false,
+					"name": "君乐宝纯享瓶风味发酵乳 苹果味 330g",
+					"sku": 100001868,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "满件立减",
+						"subType": 321,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20180906/488fc427-b067-43e8-b9ca-cab5b0a21858_360x360H",
+				"resource": "100001868",
+				"sort": 3,
+				"spId": 100001868,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-低温乳品-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-低温乳品-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-低温乳品-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 47
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190810/fc630d1e-ff29-4450-b47f-f85e00419301_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "湾仔码头手工水饺 荠菜猪肉 720g",
+						"skuId": 166983
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 2450,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 3390,
+					"showTitle": false,
+					"name": "湾仔码头手工水饺 荠菜猪肉 720g",
+					"sku": 166983,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190810/fc630d1e-ff29-4450-b47f-f85e00419301_360x360H",
+				"resource": "166983",
+				"sort": 1,
+				"spId": 166983,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20181122/767bbfc2-bc2a-46cc-8092-84053c117038_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "三全上海馄饨 三鲜 500g",
+						"skuId": 166900
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 1080,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "会员价",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1550,
+					"showTitle": false,
+					"name": "三全上海馄饨 三鲜 500g",
+					"sku": 166900,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "会员价",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20181122/767bbfc2-bc2a-46cc-8092-84053c117038_360x360H",
+				"resource": "166900",
+				"sort": 2,
+				"spId": 166900,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190712/5cd5c622-b77f-4037-9528-8514eed24467_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "思念灌汤水饺家庭装 猪肉荠菜 1kg",
+						"skuId": 100227447
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 790,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "限量秒杀",
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1590,
+					"showTitle": false,
+					"name": "思念灌汤水饺家庭装 猪肉荠菜 1kg",
+					"sku": 100227447,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "限量秒杀",
+						"subType": 102,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190712/5cd5c622-b77f-4037-9528-8514eed24467_360x360H",
+				"resource": "100227447",
+				"sort": 3,
+				"spId": 100227447,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-冷冻商品-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-冷冻商品-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-冷冻商品-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 48
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20181024/94844d88-c1a8-4f77-98b0-82f13a910f5c_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "双汇新王中王 60g*10 新老包装随机",
+						"skuId": 129389
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 1990,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 2750,
+					"showTitle": false,
+					"name": "双汇新王中王 60g*10 新老包装随机",
+					"sku": 129389,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20181024/94844d88-c1a8-4f77-98b0-82f13a910f5c_360x360H",
+				"resource": "129389",
+				"sort": 1,
+				"spId": 129389,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190306/23fb993c-0462-4280-9b8a-12b882bd57cb_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "金锣无淀粉王中王 40g*10",
+						"skuId": 129382
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 1280,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1790,
+					"showTitle": false,
+					"name": "金锣无淀粉王中王 40g*10",
+					"sku": 129382,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190306/23fb993c-0462-4280-9b8a-12b882bd57cb_360x360H",
+				"resource": "129382",
+				"sort": 2,
+				"spId": 129382,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190306/cee56d59-61e9-4a78-8d23-786f3bde4550_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "金锣小台式烤肠脆骨粒 48g*5",
+						"skuId": 121952
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 990,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1390,
+					"showTitle": false,
+					"name": "金锣小台式烤肠脆骨粒 48g*5",
+					"sku": 121952,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190306/cee56d59-61e9-4a78-8d23-786f3bde4550_360x360H",
+				"resource": "121952",
+				"sort": 3,
+				"spId": 121952,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-包装熟食-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-包装熟食-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-包装熟食-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 49
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190910/9397f596-bac4-4bf0-9fe3-a1957f4b0556_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "得利斯精品红肠 400g",
+						"skuId": 101114814
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 1880,
+					"sell": true,
+					"videoInfo": [],
+					"promotionDisplayLable": "满2件享7折",
+					"skuType": 1,
+					"wareStatus": 0,
+					"showTitle": false,
+					"name": "得利斯精品红肠 400g",
+					"sku": 101114814,
+					"stock": 10,
+					"promotionList": [{
+						"subTypeName": "满2件享7折",
+						"subType": 303,
+						"type": 1
+					}],
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190910/9397f596-bac4-4bf0-9fe3-a1957f4b0556_360x360H",
+				"resource": "101114814",
+				"sort": 1,
+				"spId": 101114814,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190917/8e6845ca-a13b-423d-977a-226dc1434d68_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "德州风味扒鸡 500g",
+						"skuId": 100382301
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 2190,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"showTitle": false,
+					"name": "德州风味扒鸡 500g",
+					"sku": 100382301,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190917/8e6845ca-a13b-423d-977a-226dc1434d68_360x360H",
+				"resource": "100382301",
+				"sort": 2,
+				"spId": 100382301,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20190416/f49a8183-d900-4af5-9884-6709f996533d_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "餐虎麻辣小龙虾4-6钱 约650g",
+						"skuId": 100821570
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 2790,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 3990,
+					"showTitle": false,
+					"name": "餐虎麻辣小龙虾4-6钱 约650g",
+					"sku": 100821570,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/3335/1_360x360H", "https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20190416/f49a8183-d900-4af5-9884-6709f996533d_360x360H",
+				"resource": "100821570",
+				"sort": 3,
+				"spId": 100821570,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-风味熟食-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-风味熟食-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-风味熟食-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 50
+		}, {
+			"dataList": [{
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20181129/81efffd6-12a3-4bdc-ad4f-9c00ff3b996f_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "双塔粉丝 450g",
+						"skuId": 118408
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 1090,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1960,
+					"showTitle": false,
+					"name": "双塔粉丝 450g",
+					"sku": 118408,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20181129/81efffd6-12a3-4bdc-ad4f-9c00ff3b996f_360x360H",
+				"resource": "118408",
+				"sort": 1,
+				"spId": 118408,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20161112/596b2656-d120-41b0-9990-2a8ede209a45_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "乐惠有机紫菜 36g",
+						"skuId": 182786
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 990,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1650,
+					"showTitle": false,
+					"name": "乐惠有机紫菜 36g",
+					"sku": 182786,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20161112/596b2656-d120-41b0-9990-2a8ede209a45_360x360H",
+				"resource": "182786",
+				"sort": 2,
+				"spId": 182786,
+				"storeId": 206,
+				"venderId": 1
+			}, {
+				"brandId": 0,
+				"data": {
+					"skus": {
+						"img": "https://img.dmallcdn.com/20161112/e770d452-c3d7-46dc-83a5-14b86cc0420b_360x360H",
+						"shop": 206,
+						"promotionInfo": "",
+						"title": "红旭黄小米 1kg",
+						"skuId": 100249863
+					},
+					"showPlayIcon": false,
+					"promotionPrice": 1000,
+					"sell": true,
+					"videoInfo": [],
+					"skuType": 1,
+					"wareStatus": 0,
+					"price": 1690,
+					"showTitle": false,
+					"name": "红旭黄小米 1kg",
+					"sku": 100249863,
+					"stock": 10,
+					"cornerSign": ["https://img.dmallcdn.com/cornerMarkV3/6168/1_360x360H"],
+					"wareType": 0
+				},
+				"dataType": 3,
+				"imageUrl": "https://img.dmallcdn.com/20161112/e770d452-c3d7-46dc-83a5-14b86cc0420b_360x360H",
+				"resource": "100249863",
+				"sort": 3,
+				"spId": 100249863,
+				"storeId": 206,
+				"venderId": 1
+			}],
+			"displayType": 128,
+			"groupFeature": {
+				"titleNew": "楼层单品-干货-O2O",
+				"margin": 0,
+				"subTitle": "",
+				"showTitle": false,
+				"title": "楼层单品-干货-O2O",
+				"ratio": 1
+			},
+			"moduleType": 128,
+			"name": "楼层单品-干货-O2O",
+			"showBgImg": false,
+			"showName": false,
+			"sort": 51
+		}]
+	},
+	"errCode": "0000",
+	"errMsg": ""
+}

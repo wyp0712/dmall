@@ -1,5 +1,4 @@
-# vue-private
-
+# Dmall 模仿项目
 ## Project setup
 ```
 npm install
